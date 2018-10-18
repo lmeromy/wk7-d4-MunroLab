@@ -1,0 +1,24 @@
+body {
+  color: green;
+  font-family: 'Palatino';
+  background-color: lightblue;
+}
+
+.munros, .munro {
+  display: flex;
+  flex-flow: row;
+  margin: 5px;
+  padding: 5px;
+  background-color: #fff;
+  /* display: inline-block; */
+  align-items: center;
+}
+
+
+}
+
+h1, h2 {
+  display: flex;
+  justify-content: center;
+  font-style: italic;
+}

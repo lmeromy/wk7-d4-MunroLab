@@ -5,12 +5,12 @@ body {
 }
 
 .munros, .munro {
-  display: flex;
-  flex-flow: row;
+  /* display: flex;
+  flex-flow: row; */
   margin: 5px;
   padding: 5px;
   background-color: #fff;
-  /* display: inline-block; */
+  display: inline-block;
   align-items: center;
 }
 
